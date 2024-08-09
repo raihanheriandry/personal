@@ -22,7 +22,7 @@ export default function Profile() {
         <div className='flex flex-col lg:flex-row items-start justify-between'>
           <div className='text-center wpfull max-w-[400px] mx-auto mb-[50px]'>
             <div>
-              <img src="../src/assets/profil.jpg" alt="" className='transition ease-in-out delay-100 hover:-translate-y-1 hover:scale-110 duration-300 min-w-[230px] md:me-10 min-h-[230px] w-10 rounded-full mt-16'/>
+              <img src="../assets/profil.jpg" alt="" className='transition ease-in-out delay-100 hover:-translate-y-1 hover:scale-110 duration-300 min-w-[230px] md:me-10 min-h-[230px] w-10 rounded-full mt-16'/>
             </div>
             <h2 className='text-gradient text-[50px] mt-[20px]'></h2>
           </div>
