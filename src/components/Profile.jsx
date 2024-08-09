@@ -11,7 +11,7 @@ export default function Profile() {
     <div className='section '  id='profile' >
       <div className='container mx-auto max-w-[1000px] p-3 overflow-hidden'>
         <div className='text-center'>
-          <h1 className='play text-white text-[40px] pb-8 font-bold'>About Me</h1>
+          <h1 className='play text-white text-[40px] pb-8 font-bold'> Me</h1>
           <h2 className='pop max-w-[700px] mx-auto text-slate-300 text-[16px] ' data-aos="zoom-in-down" data-aos-duration="1500">
 
           Seorang mahasiswa baru angkatan 2024 Jurusan Sistem Informasi, Fakultas Ilmu Komputer, Universitas Indonesia, yang berasal dari Kabupaten Wonosobo, Jawa Tengah. Memiliki ketertarikan untuk mengeksplorasi kemampuan di dunia IT dan Pemrograman. Menekuni bidang Pemrograman Web, Analisis Sistem dan Pemrograman Kompetitif.
