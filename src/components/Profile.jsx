@@ -1,4 +1,4 @@
-import React from 'react'
+qimport React from 'react'
 
 export default function Profile() {
   const experience = [
@@ -11,7 +11,7 @@ export default function Profile() {
     <div className='section '  id='profile' >
       <div className='container mx-auto max-w-[1000px] p-3 overflow-hidden'>
         <div className='text-center'>
-          <h1 className='play text-white text-[40px] pb-8 font-bold'> Me</h1>
+          <h1 className='play text-white text-[40px] pb-8 font-bold'>About Me</h1>
           <h2 className='pop max-w-[700px] mx-auto text-slate-300 text-[16px] ' data-aos="zoom-in-down" data-aos-duration="1500">
 
           Seorang mahasiswa baru angkatan 2024 Jurusan Sistem Informasi, Fakultas Ilmu Komputer, Universitas Indonesia, yang berasal dari Kabupaten Wonosobo, Jawa Tengah. Memiliki ketertarikan untuk mengeksplorasi kemampuan di dunia IT dan Pemrograman. Menekuni bidang Pemrograman Web, Analisis Sistem dan Pemrograman Kompetitif.
@@ -22,7 +22,7 @@ export default function Profile() {
         <div className='flex flex-col lg:flex-row items-start justify-between'>
           <div className='text-center wpfull max-w-[400px] mx-auto mb-[50px]'>
             <div>
-              <img src="../assets/profil.jpg" alt="" className='transition ease-in-out delay-100 hover:-translate-y-1 hover:scale-110 duration-300 min-w-[230px] md:me-10 min-h-[230px] w-10 rounded-full mt-16'/>
+              <img src="../src/assets/profil.jpg" alt="" className='transition ease-in-out delay-100 hover:-translate-y-1 hover:scale-110 duration-300 min-w-[230px] md:me-10 min-h-[230px] w-10 rounded-full mt-16'/>
             </div>
             <h2 className='text-gradient text-[50px] mt-[20px]'></h2>
           </div>
