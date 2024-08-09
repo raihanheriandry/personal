@@ -1,4 +1,4 @@
-qimport React from 'react'
+import React from 'react'
 
 export default function Profile() {
   const experience = [
@@ -54,94 +54,7 @@ export default function Profile() {
                   </div>
                 )
               }
-{/* 
-              <div className='w-full'>
-                <div className='bg-white h-full justify-center items-center flex rounded-lg overflow-hidden relative p-1 group'>
-                  <img src="../src/assets/foto1.jpg" alt="" />
-                  <div className='absolute p-5 backdrop-blur-xl bg-slate-200 w-full h-full flex items-center opacity-0 scale-0 group-hover:scale-100 group-hover:opacity-100 transition ease-linear'>
-                    <div className='text-center w-full text-white'>
-                      <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
-                        <h4 className='text-blue-500 text-[18px] '>
-                          Pramuka
-                        </h4>
-                      </div>
-                      <p className='text-[13px] text-black'>
-                        Saat SMA saya aktif di bidang kepramukaan dan menjadi Pradana Putra Dewan Ambalan MAN IC Pekalongan
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-
-              <div className='w-full'>
-                <div className='bg-white h-full justify-center items-center flex rounded-lg overflow-hidden relative p-5 group'>
-                  <img src="/images/1.png" alt="" />
-                  <div className='absolute p-5 backdrop-blur-xl bg-slate-200 w-full h-full flex items-center opacity-0 scale-0 group-hover:scale-100 group-hover:opacity-100 transition ease-linear'>
-                    <div className='text-center w-full text-white'>
-                      <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
-                        <h4 className='bg-gray-400'>
-                          Jquery
-                        </h4>
-                      </div>
-                      <p className='text-[12px] text-black'>
-                        Lorem ipsum dolor sit amet consectetur.{""}
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className='w-full'>
-                <div className='bg-white h-full justify-center items-center flex rounded-lg overflow-hidden relative p-5 group'>
-                  <img src="/images/1.png" alt="" />
-                  <div className='absolute p-5 backdrop-blur-xl bg-slate-200 w-full h-full flex items-center opacity-0 scale-0 group-hover:scale-100 group-hover:opacity-100 transition ease-linear'>
-                    <div className='text-center w-full text-white'>
-                      <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
-                        <h4 className='bg-gray-400'>
-                          Jquery
-                        </h4>
-                      </div>
-                      <p className='text-[12px] text-black'>
-                        Lorem ipsum dolor sit amet consectetur.{""}
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className='w-full'>
-                <div className='bg-white h-full justify-center items-center flex rounded-lg overflow-hidden relative p-5 group'>
-                  <img src="/images/1.png" alt="" />
-                  <div className='absolute p-5 backdrop-blur-xl bg-slate-200 w-full h-full flex items-center opacity-0 scale-0 group-hover:scale-100 group-hover:opacity-100 transition ease-linear'>
-                    <div className='text-center w-full text-white'>
-                      <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
-                        <h4 className='bg-gray-400'>
-                          Jquery
-                        </h4>
-                      </div>
-                      <p className='text-[12px] text-black'>
-                        Lorem ipsum dolor sit amet consectetur.{""}
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className='w-full'>
-                <div className='bg-white h-full justify-center items-center flex rounded-lg overflow-hidden relative p-5 group'>
-                  <img src="/images/1.png" alt="" />
-                  <div className='absolute p-5 backdrop-blur-xl bg-slate-200 w-full h-full flex items-center opacity-0 scale-0 group-hover:scale-100 group-hover:opacity-100 transition ease-linear'>
-                    <div className='text-center w-full text-white'>
-                      <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
-                        <h4 className='bg-gray-400'>
-                          Jquery
-                        </h4>
-                      </div>
-                      <p className='text-[12px] text-black'>
-                        Lorem ipsum dolor sit amet consectetur.{""}
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>  */}
+              
             </div>
           </div>
         </div>
